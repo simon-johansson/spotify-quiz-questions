@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "module": "commonjs",
+    "strictNullChecks": true,
+    "noImplicitAny": true,
+    "outDir": "dist",
+    "allowJs": false,
+    "experimentalDecorators": true,
+    "declaration": true,
+    "forceConsistentCasingInFileNames": true,
+  },
+  "include": [
+    "lib/**/*.ts"
+  ],
+  "exclude": [
+    "lib/**/*.test.ts",
+    "dist",
+    "node_modules"
+  ]
+}

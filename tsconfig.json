@@ -1,23 +1,7 @@
 {
+  "extends": "./tsconfig.publish.json",
   "compilerOptions": {
-    "target": "es2015",
-    "module": "commonjs",
-    "strictNullChecks": true,
-    "noImplicitAny": true,
-    "outDir": "dist",
-    "allowJs": false,
     "sourceMap": true,
     "watch": true,
-    "experimentalDecorators": true,
-    "declaration": true,
-    "forceConsistentCasingInFileNames": true,
-  },
-  "include": [
-    "lib/**/*.ts"
-  ],
-  "exclude": [
-    "lib/**/*.test.ts",
-    "dist",
-    "node_modules",
-  ]
+  }
 }
