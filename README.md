@@ -1,4 +1,4 @@
-# spotify-quiz-questions [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+# spotify-quiz-questions [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][codecov-image]][codecov-url]
 
 > Generates questions for music quiz
 
@@ -70,5 +70,5 @@ MIT © [Simon Johansson](https://github.com/simon-johansson)
 [travis-url]: https://travis-ci.org/simon-johansson/spotify-quiz-questions
 [daviddm-image]: https://david-dm.org/simon-johansson/spotify-quiz-questions.svg?theme=shields.io
 [daviddm-url]: https://david-dm.org/simon-johansson/spotify-quiz-questions
-[coveralls-image]: https://coveralls.io/repos/simon-johansson/spotify-quiz-questions/badge.svg
-[coveralls-url]: https://coveralls.io/r/simon-johansson/spotify-quiz-questions
+[codecov-image]: https://codecov.io/gh/simon-johansson/spotify-quiz-questions/branch/master/graph/badge.svg
+[codecov-url]: https://codecov.io/gh/simon-johansson/spotify-quiz-questions
