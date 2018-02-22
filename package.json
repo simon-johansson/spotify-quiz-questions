@@ -7,9 +7,6 @@
     "email": "mail@simon-johansson.com",
     "url": "https://github.com/simon-johansson"
   },
-  "files": [
-    "dist"
-  ],
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "keywords": [
@@ -35,6 +32,7 @@
   "scripts": {
     "pretest": "tslint -c tslint.json 'lib/**/*.ts'",
     "precommit": "lint-staged",
+    "prepack": "rm -rf dist/ && tsc -p tsconfig.publish.json && npm test",
     "test": "jest --coverage",
     "jest-w": "jest --watch"
   },
