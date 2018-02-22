@@ -32,7 +32,6 @@
     "typescript": "^2.7.1"
   },
   "scripts": {
-    "prepublish": "nsp check",
     "pretest": "tslint -c tslint.json 'lib/**/*.ts'",
     "precommit": "lint-staged",
     "test": "jest --coverage",
