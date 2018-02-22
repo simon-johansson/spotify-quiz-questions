@@ -1,0 +1,815 @@
+{
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+      },
+      "followers": {
+        "href": null,
+        "total": 127811
+      },
+      "genres": [
+        "brill building pop",
+        "rock-and-roll",
+        "rockabilly"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0JDkhL4rjiPNEp92jAgJnS",
+      "id": "0JDkhL4rjiPNEp92jAgJnS",
+      "images": [
+        {
+          "height": 1373,
+          "url": "https://i.scdn.co/image/7f1b3c37612225eb475418cce5fad6c4b899028d",
+          "width": 1000
+        },
+        {
+          "height": 879,
+          "url": "https://i.scdn.co/image/b5137cd3489bd841acc464f0f381ae2c9adc0a40",
+          "width": 640
+        },
+        {
+          "height": 275,
+          "url": "https://i.scdn.co/image/664df3c8d77780e9871a1e80ee0389e84fa82ddc",
+          "width": 200
+        },
+        {
+          "height": 88,
+          "url": "https://i.scdn.co/image/6479926a4a97dd7ddddc70b7fb87c6b7de0d705d",
+          "width": 64
+        }
+      ],
+      "name": "Roy Orbison",
+      "popularity": 60,
+      "type": "artist",
+      "uri": "spotify:artist:0JDkhL4rjiPNEp92jAgJnS"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+      },
+      "followers": {
+        "href": null,
+        "total": 65322
+      },
+      "genres": [
+        "rock-and-roll",
+        "rockabilly"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2zyz0VJqrDXeFDIyrfVXSo",
+      "id": "2zyz0VJqrDXeFDIyrfVXSo",
+      "images": [
+        {
+          "height": 1278,
+          "url": "https://i.scdn.co/image/9ff799b50db2f8f5fe8eaec5daac36e1792f3cb3",
+          "width": 1000
+        },
+        {
+          "height": 818,
+          "url": "https://i.scdn.co/image/198a68c93e80bd7384678d62100bddca884ffff7",
+          "width": 640
+        },
+        {
+          "height": 256,
+          "url": "https://i.scdn.co/image/ce87f34433255b9cd3889ee7e6af10f168cee9b4",
+          "width": 200
+        },
+        {
+          "height": 82,
+          "url": "https://i.scdn.co/image/d050407ffb44438e02830d6125b1bd2b955d5731",
+          "width": 64
+        }
+      ],
+      "name": "Jerry Lee Lewis",
+      "popularity": 53,
+      "type": "artist",
+      "uri": "spotify:artist:2zyz0VJqrDXeFDIyrfVXSo"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+      },
+      "followers": {
+        "href": null,
+        "total": 95371
+      },
+      "genres": [
+        "rock-and-roll",
+        "rockabilly"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3wYyutjgII8LJVVOLrGI0D",
+      "id": "3wYyutjgII8LJVVOLrGI0D",
+      "images": [
+        {
+          "height": 1266,
+          "url": "https://i.scdn.co/image/e8246f90d11c6d4985069cc4b29c0a1e41e75241",
+          "width": 1000
+        },
+        {
+          "height": 810,
+          "url": "https://i.scdn.co/image/9a6b7bce7b052c7c12412bbdfd50cf85eb05b81e",
+          "width": 640
+        },
+        {
+          "height": 253,
+          "url": "https://i.scdn.co/image/2c2b311b63e4e91739b419b1e8382d6421e680b3",
+          "width": 200
+        },
+        {
+          "height": 81,
+          "url": "https://i.scdn.co/image/5cef984df6a60c96520c952ef85923de0907a512",
+          "width": 64
+        }
+      ],
+      "name": "Buddy Holly",
+      "popularity": 55,
+      "type": "artist",
+      "uri": "spotify:artist:3wYyutjgII8LJVVOLrGI0D"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+      },
+      "followers": {
+        "href": null,
+        "total": 26194
+      },
+      "genres": [
+        "rock-and-roll",
+        "rockabilly"
+      ],
+      "href": "https://api.spotify.com/v1/artists/73sSFVlM6pkweLXE8qw1OS",
+      "id": "73sSFVlM6pkweLXE8qw1OS",
+      "images": [
+        {
+          "height": 1129,
+          "url": "https://i.scdn.co/image/53b1e360f7e4978410529ee7a971c3f8a4118622",
+          "width": 1000
+        },
+        {
+          "height": 723,
+          "url": "https://i.scdn.co/image/e4eb935b9af1f78735e9e25e8e75e3685b81fdd8",
+          "width": 640
+        },
+        {
+          "height": 226,
+          "url": "https://i.scdn.co/image/d6f709471d825cb9cf991acb77b7fb87667c0de1",
+          "width": 200
+        },
+        {
+          "height": 72,
+          "url": "https://i.scdn.co/image/6ced7f8bcb6a04e22dd357c4110fa0e4349933cd",
+          "width": 64
+        }
+      ],
+      "name": "Ricky Nelson",
+      "popularity": 46,
+      "type": "artist",
+      "uri": "spotify:artist:73sSFVlM6pkweLXE8qw1OS"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
+      },
+      "followers": {
+        "href": null,
+        "total": 15528
+      },
+      "genres": [
+        "rock-and-roll",
+        "rockabilly"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5hIClg6noTaCzMu2s5wp4f",
+      "id": "5hIClg6noTaCzMu2s5wp4f",
+      "images": [
+        {
+          "height": 737,
+          "url": "https://i.scdn.co/image/02b340629ddcc41fe48932fba641312f27de49a7",
+          "width": 999
+        },
+        {
+          "height": 472,
+          "url": "https://i.scdn.co/image/c99b5bc0bd9bfd566c6f64eccf9ae6426aaeff20",
+          "width": 640
+        },
+        {
+          "height": 147,
+          "url": "https://i.scdn.co/image/a2240effbf0c00539348d81e90380a14a51651cc",
+          "width": 199
+        },
+        {
+          "height": 47,
+          "url": "https://i.scdn.co/image/9af48c6576925720e3d43aacdd7797c52e1a639b",
+          "width": 64
+        }
+      ],
+      "name": "Carl Perkins",
+      "popularity": 44,
+      "type": "artist",
+      "uri": "spotify:artist:5hIClg6noTaCzMu2s5wp4f"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+      },
+      "followers": {
+        "href": null,
+        "total": 44959
+      },
+      "genres": [
+        "brill building pop",
+        "rock-and-roll",
+        "rockabilly"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4ACplpEqD6JIVgKrafauzs",
+      "id": "4ACplpEqD6JIVgKrafauzs",
+      "images": [
+        {
+          "height": 1035,
+          "url": "https://i.scdn.co/image/bf582c9e540c2f12771cfd032f592d31697cfae9",
+          "width": 1000
+        },
+        {
+          "height": 662,
+          "url": "https://i.scdn.co/image/da7c23421146985b7e1583d3bc09ecba9f7ac5c6",
+          "width": 640
+        },
+        {
+          "height": 207,
+          "url": "https://i.scdn.co/image/b430dbc0ed1d6926b9088440683d15270e5154cc",
+          "width": 200
+        },
+        {
+          "height": 66,
+          "url": "https://i.scdn.co/image/985afca7544c6933b7e7ada2018c4ed0b4bba7a0",
+          "width": 64
+        }
+      ],
+      "name": "The Everly Brothers",
+      "popularity": 53,
+      "type": "artist",
+      "uri": "spotify:artist:4ACplpEqD6JIVgKrafauzs"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+      },
+      "followers": {
+        "href": null,
+        "total": 62897
+      },
+      "genres": [
+        "rock-and-roll",
+        "rockabilly"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4xls23Ye9WR9yy3yYMpAMm",
+      "id": "4xls23Ye9WR9yy3yYMpAMm",
+      "images": [
+        {
+          "height": 1181,
+          "url": "https://i.scdn.co/image/b4db13fb1d2e2872d7b7eac4b17d67870482f16f",
+          "width": 1000
+        },
+        {
+          "height": 756,
+          "url": "https://i.scdn.co/image/217387b531599ffb81751ab8629c4baf78d85c4e",
+          "width": 640
+        },
+        {
+          "height": 236,
+          "url": "https://i.scdn.co/image/82fe8f7a2d139b7c746b5ff6985f6b186113dd75",
+          "width": 200
+        },
+        {
+          "height": 76,
+          "url": "https://i.scdn.co/image/de0d8715aa69bdbbd1236c6c88528ff93804e86d",
+          "width": 64
+        }
+      ],
+      "name": "Little Richard",
+      "popularity": 55,
+      "type": "artist",
+      "uri": "spotify:artist:4xls23Ye9WR9yy3yYMpAMm"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO"
+      },
+      "followers": {
+        "href": null,
+        "total": 26019
+      },
+      "genres": [
+        "rock-and-roll",
+        "rockabilly"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1p0t3JtUTayV2wb1RGN9mO",
+      "id": "1p0t3JtUTayV2wb1RGN9mO",
+      "images": [
+        {
+          "height": 752,
+          "url": "https://i.scdn.co/image/6c3d2f6c26991828bf2d776fc468b929ca31304a",
+          "width": 648
+        },
+        {
+          "height": 743,
+          "url": "https://i.scdn.co/image/21c81243f2df0b3ce5cdcd7af629beef7e8af76e",
+          "width": 640
+        },
+        {
+          "height": 232,
+          "url": "https://i.scdn.co/image/9a800b3323b9edcdb0267aad068aedd594cc1fd1",
+          "width": 200
+        },
+        {
+          "height": 74,
+          "url": "https://i.scdn.co/image/5b01110b8def5978979b9bd946612e353028828d",
+          "width": 64
+        }
+      ],
+      "name": "Eddie Cochran",
+      "popularity": 48,
+      "type": "artist",
+      "uri": "spotify:artist:1p0t3JtUTayV2wb1RGN9mO"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+      },
+      "followers": {
+        "href": null,
+        "total": 155572
+      },
+      "genres": [
+        "rock-and-roll",
+        "rockabilly"
+      ],
+      "href": "https://api.spotify.com/v1/artists/293zczrfYafIItmnmM3coR",
+      "id": "293zczrfYafIItmnmM3coR",
+      "images": [
+        {
+          "height": 1198,
+          "url": "https://i.scdn.co/image/806ae8389df74bb2f8df1adf64c67c0e6dc76048",
+          "width": 1000
+        },
+        {
+          "height": 766,
+          "url": "https://i.scdn.co/image/f07a0dc93bde1aa294355c26b2a75edaa274c8f8",
+          "width": 640
+        },
+        {
+          "height": 240,
+          "url": "https://i.scdn.co/image/c5d23d159328aa908baaeeff6fa4855cf8519999",
+          "width": 200
+        },
+        {
+          "height": 77,
+          "url": "https://i.scdn.co/image/98006c221cbcc29bc9746757e69fa896fd0a5640",
+          "width": 64
+        }
+      ],
+      "name": "Chuck Berry",
+      "popularity": 65,
+      "type": "artist",
+      "uri": "spotify:artist:293zczrfYafIItmnmM3coR"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+      },
+      "followers": {
+        "href": null,
+        "total": 29285
+      },
+      "genres": [
+        "rock-and-roll",
+        "rockabilly"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5Y9xEAGW4GwGJgbiI6W85P",
+      "id": "5Y9xEAGW4GwGJgbiI6W85P",
+      "images": [
+        {
+          "height": 719,
+          "url": "https://i.scdn.co/image/02da1b78ba9cad76b662cff4d0fdf41f20bbc67d",
+          "width": 1000
+        },
+        {
+          "height": 460,
+          "url": "https://i.scdn.co/image/be6d7f39b75ff62aadc113d4c2142291821bdc0d",
+          "width": 640
+        },
+        {
+          "height": 144,
+          "url": "https://i.scdn.co/image/1f234198e2d01e415acdc058956993c89f842b32",
+          "width": 200
+        },
+        {
+          "height": 46,
+          "url": "https://i.scdn.co/image/f1a5f9fc9ad095d419313308b38f805e42c05dcf",
+          "width": 64
+        }
+      ],
+      "name": "Ritchie Valens",
+      "popularity": 50,
+      "type": "artist",
+      "uri": "spotify:artist:5Y9xEAGW4GwGJgbiI6W85P"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+      },
+      "followers": {
+        "href": null,
+        "total": 25168
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/4cPHsZM98sKzmV26wlwD2W",
+      "id": "4cPHsZM98sKzmV26wlwD2W",
+      "images": [
+        {
+          "height": 1469,
+          "url": "https://i.scdn.co/image/b2d04f712c91bcf98a28ce1a8c2f674ddb724ec6",
+          "width": 1000
+        },
+        {
+          "height": 940,
+          "url": "https://i.scdn.co/image/4ca270764861f2e13851b8e5110bb96ba7f39359",
+          "width": 640
+        },
+        {
+          "height": 294,
+          "url": "https://i.scdn.co/image/89ecdb230bcc12e980ce58fd88d20cc6dbc5b388",
+          "width": 200
+        },
+        {
+          "height": 94,
+          "url": "https://i.scdn.co/image/2e615b79eb4c945b7a57e241448e681d7f2da8bd",
+          "width": 64
+        }
+      ],
+      "name": "Brenda Lee",
+      "popularity": 68,
+      "type": "artist",
+      "uri": "spotify:artist:4cPHsZM98sKzmV26wlwD2W"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2XBzvyw3fwtZu4iUz12x0G"
+      },
+      "followers": {
+        "href": null,
+        "total": 12228
+      },
+      "genres": [
+        "rock-and-roll",
+        "rockabilly"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2XBzvyw3fwtZu4iUz12x0G",
+      "id": "2XBzvyw3fwtZu4iUz12x0G",
+      "images": [
+        {
+          "height": 809,
+          "url": "https://i.scdn.co/image/8e9c925577ff4d563f9f12324453be1b5d026494",
+          "width": 1000
+        },
+        {
+          "height": 518,
+          "url": "https://i.scdn.co/image/37b77aa15c67c4d8763a73301360d405715a7145",
+          "width": 640
+        },
+        {
+          "height": 162,
+          "url": "https://i.scdn.co/image/3b2ae8fdc389ee165b7f5787fd91ae6604ff4fca",
+          "width": 200
+        },
+        {
+          "height": 52,
+          "url": "https://i.scdn.co/image/fb39aac889247b6528b3bbc85c1e2ef773ad2b47",
+          "width": 64
+        }
+      ],
+      "name": "Bill Haley",
+      "popularity": 37,
+      "type": "artist",
+      "uri": "spotify:artist:2XBzvyw3fwtZu4iUz12x0G"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+      },
+      "followers": {
+        "href": null,
+        "total": 46850
+      },
+      "genres": [
+        "brill building pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6KWcxMWVNVIYbdOQyJtsSy",
+      "id": "6KWcxMWVNVIYbdOQyJtsSy",
+      "images": [
+        {
+          "height": 857,
+          "url": "https://i.scdn.co/image/10557069b43b1059e6490d062a5d21154a78d69d",
+          "width": 689
+        },
+        {
+          "height": 796,
+          "url": "https://i.scdn.co/image/f6fa63eb8267c9381557adbb37119900c49c3734",
+          "width": 640
+        },
+        {
+          "height": 249,
+          "url": "https://i.scdn.co/image/634e2cd425103bfd8766a7f31adcaa0bdfedb3ac",
+          "width": 200
+        },
+        {
+          "height": 80,
+          "url": "https://i.scdn.co/image/864692e8803ffa885e34cbcde41acb218019c17e",
+          "width": 64
+        }
+      ],
+      "name": "The Platters",
+      "popularity": 56,
+      "type": "artist",
+      "uri": "spotify:artist:6KWcxMWVNVIYbdOQyJtsSy"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
+      },
+      "followers": {
+        "href": null,
+        "total": 24305
+      },
+      "genres": [
+        "rockabilly"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5ZKMPRDHc7qElVJFh3uRqB",
+      "id": "5ZKMPRDHc7qElVJFh3uRqB",
+      "images": [
+        {
+          "height": 997,
+          "url": "https://i.scdn.co/image/beff5827580bcc4d129cbc0872768095eeba8c14",
+          "width": 1000
+        },
+        {
+          "height": 638,
+          "url": "https://i.scdn.co/image/dbabf703779789917c4dd1c0e54da62c7a45ce92",
+          "width": 640
+        },
+        {
+          "height": 199,
+          "url": "https://i.scdn.co/image/74761c343bec27c814b8e44e4bc095cbf1b674bb",
+          "width": 200
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/0c30af5647c74fee14fb97981c23b336abbc9f21",
+          "width": 64
+        }
+      ],
+      "name": "Wanda Jackson",
+      "popularity": 46,
+      "type": "artist",
+      "uri": "spotify:artist:5ZKMPRDHc7qElVJFh3uRqB"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx"
+      },
+      "followers": {
+        "href": null,
+        "total": 11286
+      },
+      "genres": [
+        "rock-and-roll",
+        "rockabilly"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5VAHm7V5mnsxvQrWw3KHmx",
+      "id": "5VAHm7V5mnsxvQrWw3KHmx",
+      "images": [
+        {
+          "height": 1224,
+          "url": "https://i.scdn.co/image/f3f3a6df9ee1854a32a8a4e635820002c6ef32be",
+          "width": 1000
+        },
+        {
+          "height": 784,
+          "url": "https://i.scdn.co/image/4ebffb55a443fb401fe0233fd6c8bb42f381f235",
+          "width": 640
+        },
+        {
+          "height": 245,
+          "url": "https://i.scdn.co/image/12876b206cc3e3d1133a674c8e02caee88ca5285",
+          "width": 200
+        },
+        {
+          "height": 78,
+          "url": "https://i.scdn.co/image/4d3bf8fc93e3e0c7314c38142d38c74959c9f52d",
+          "width": 64
+        }
+      ],
+      "name": "Gene Vincent",
+      "popularity": 40,
+      "type": "artist",
+      "uri": "spotify:artist:5VAHm7V5mnsxvQrWw3KHmx"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+      },
+      "followers": {
+        "href": null,
+        "total": 40209
+      },
+      "genres": [
+        "new orleans blues",
+        "rock-and-roll",
+        "swamp pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/09C0xjtosNAIXP36wTnWxd",
+      "id": "09C0xjtosNAIXP36wTnWxd",
+      "images": [
+        {
+          "height": 1170,
+          "url": "https://i.scdn.co/image/1e7e3ddbe8c3862d32d35aef5e4a763718f1e370",
+          "width": 1000
+        },
+        {
+          "height": 749,
+          "url": "https://i.scdn.co/image/172221e04fef2e038871248b3abdecbcf8f5c131",
+          "width": 640
+        },
+        {
+          "height": 234,
+          "url": "https://i.scdn.co/image/5ee1c7e5f1a45125ee8315d90ca62e6afb04cc25",
+          "width": 200
+        },
+        {
+          "height": 75,
+          "url": "https://i.scdn.co/image/afe5d30d0286526a60aa0d37c02d5864eb24f67b",
+          "width": 64
+        }
+      ],
+      "name": "Fats Domino",
+      "popularity": 52,
+      "type": "artist",
+      "uri": "spotify:artist:09C0xjtosNAIXP36wTnWxd"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
+      },
+      "followers": {
+        "href": null,
+        "total": 9304
+      },
+      "genres": [
+        "rock-and-roll",
+        "rockabilly"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3MFp4cYuYtTZe3d3xkLLbr",
+      "id": "3MFp4cYuYtTZe3d3xkLLbr",
+      "images": [
+        {
+          "height": 587,
+          "url": "https://i.scdn.co/image/5ff43c4d5c1131fd5adcc4c3cab712a7ef044148",
+          "width": 640
+        },
+        {
+          "height": 275,
+          "url": "https://i.scdn.co/image/18b454401b7bf1ae7fe7e713ee0406f9d3246727",
+          "width": 300
+        },
+        {
+          "height": 59,
+          "url": "https://i.scdn.co/image/a7b0b3eeae2cfbf7419c2c3fa704992c39cf1c62",
+          "width": 64
+        }
+      ],
+      "name": "Bill Haley & His Comets",
+      "popularity": 44,
+      "type": "artist",
+      "uri": "spotify:artist:3MFp4cYuYtTZe3d3xkLLbr"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+      },
+      "followers": {
+        "href": null,
+        "total": 34766
+      },
+      "genres": [
+        "adult standards",
+        "brill building pop",
+        "christmas",
+        "lounge"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7ceUfdWq2t5nbatS6ollHh",
+      "id": "7ceUfdWq2t5nbatS6ollHh",
+      "images": [
+        {
+          "height": 1100,
+          "url": "https://i.scdn.co/image/2cf68a5624e8a646d51760740d83be8a3361cb71",
+          "width": 1000
+        },
+        {
+          "height": 704,
+          "url": "https://i.scdn.co/image/5a571c35e1840766e3f15dabb42d86adda26da90",
+          "width": 640
+        },
+        {
+          "height": 220,
+          "url": "https://i.scdn.co/image/d9f7f5448bfe1492337d78c1791ab442f9b8b56a",
+          "width": 200
+        },
+        {
+          "height": 70,
+          "url": "https://i.scdn.co/image/5b3f6e1161dff6d711d8d1b0c9a802096aa5b87b",
+          "width": 64
+        }
+      ],
+      "name": "Paul Anka",
+      "popularity": 55,
+      "type": "artist",
+      "uri": "spotify:artist:7ceUfdWq2t5nbatS6ollHh"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
+      },
+      "followers": {
+        "href": null,
+        "total": 19394
+      },
+      "genres": [
+        "rock-and-roll"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7qQJQ3YtcGlqaLg5tcypN2",
+      "id": "7qQJQ3YtcGlqaLg5tcypN2",
+      "images": [
+        {
+          "height": 1250,
+          "url": "https://i.scdn.co/image/10d80af483070c9a1d4636a36ca2d1f89289c933",
+          "width": 1000
+        },
+        {
+          "height": 800,
+          "url": "https://i.scdn.co/image/0b5b079ad92eac89fad895f309499ff772ce08c1",
+          "width": 640
+        },
+        {
+          "height": 250,
+          "url": "https://i.scdn.co/image/d0a244ebffff84aa94682338ca70b5d0e18790fa",
+          "width": 200
+        },
+        {
+          "height": 80,
+          "url": "https://i.scdn.co/image/0fdfd8a3beef84b7bc9cf9191519f6192a54764e",
+          "width": 64
+        }
+      ],
+      "name": "Chubby Checker",
+      "popularity": 47,
+      "type": "artist",
+      "uri": "spotify:artist:7qQJQ3YtcGlqaLg5tcypN2"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
+      },
+      "followers": {
+        "href": null,
+        "total": 119129
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/1T0wRBO0CK0vK8ouUMqEl5",
+      "id": "1T0wRBO0CK0vK8ouUMqEl5",
+      "images": [
+        {
+          "height": 1376,
+          "url": "https://i.scdn.co/image/b50aca00cc09b9f036171ea1c2a47a6db8aac968",
+          "width": 1000
+        },
+        {
+          "height": 880,
+          "url": "https://i.scdn.co/image/da6f2d822801f0af81bde165540f8d6891404a3e",
+          "width": 640
+        },
+        {
+          "height": 275,
+          "url": "https://i.scdn.co/image/37985e105605e760eb7a86866cc8eeb94b513e23",
+          "width": 200
+        },
+        {
+          "height": 88,
+          "url": "https://i.scdn.co/image/7931338574dcf8c2ae09dded11f1668b0110c0b0",
+          "width": 64
+        }
+      ],
+      "name": "Tom Jones",
+      "popularity": 59,
+      "type": "artist",
+      "uri": "spotify:artist:1T0wRBO0CK0vK8ouUMqEl5"
+    }
+  ]
+}

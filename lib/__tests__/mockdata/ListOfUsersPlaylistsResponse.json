@@ -1,0 +1,76 @@
+{
+  "href": "https://api.spotify.com/v1/users/wizzler/playlists?offset=0&limit=2",
+  "items": [
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "http://open.spotify.com/user/wizzler/playlist/6yRf9SJ1YiAhNAu7UCwgXQ"
+      },
+      "href": "https://api.spotify.com/v1/users/wizzler/playlists/6yRf9SJ1YiAhNAu7UCwgXQ",
+      "id": "6yRf9SJ1YiAhNAu7UCwgXQ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/5c383056e25a3e3ec858151afb70afe763c00f9b",
+          "width": 640
+        }
+      ],
+      "name": "My Shazam Tracks",
+      "owner": {
+        "external_urls": {
+          "spotify": "http://open.spotify.com/user/wizzler"
+        },
+        "href": "https://api.spotify.com/v1/users/wizzler",
+        "id": "wizzler",
+        "type": "user",
+        "uri": "spotify:user:wizzler"
+      },
+      "public": true,
+      "snapshot_id": "WlQppvajE5kH/Xt5cHfHxJ6mSsFckwYixA06q7y1asdUz+m5v7pq6xb1f0FiFa7I",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/users/wizzler/playlists/6yRf9SJ1YiAhNAu7UCwgXQ/tracks",
+        "total": 1
+      },
+      "type": "playlist",
+      "uri": "spotify:user:wizzler:playlist:6yRf9SJ1YiAhNAu7UCwgXQ"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "http://open.spotify.com/user/wizzler/playlist/3FJd21jWvCjGCLx7eKrext"
+      },
+      "href": "https://api.spotify.com/v1/users/wizzler/playlists/3FJd21jWvCjGCLx7eKrext",
+      "id": "3FJd21jWvCjGCLx7eKrext",
+      "images": [
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/15858d38fdac4af890dcc634f4946c5bf83c0915",
+          "width": 300
+        }
+      ],
+      "name": "Video Game Masterpieces",
+      "owner": {
+        "external_urls": {
+          "spotify": "http://open.spotify.com/user/wizzler"
+        },
+        "href": "https://api.spotify.com/v1/users/wizzler",
+        "id": "wizzler",
+        "type": "user",
+        "uri": "spotify:user:wizzler"
+      },
+      "public": true,
+      "snapshot_id": "LO0O/RGsDLEgeDC3xVR4HisMNsDqoPLE8QBRqllyvevTJ09tFWIUbjrYoEJbUhCa",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/users/wizzler/playlists/3FJd21jWvCjGCLx7eKrext/tracks",
+        "total": 33
+      },
+      "type": "playlist",
+      "uri": "spotify:user:wizzler:playlist:3FJd21jWvCjGCLx7eKrext"
+    }
+  ],
+  "limit": 2,
+  "next": "https://api.spotify.com/v1/users/wizzler/playlists?offset=2&limit=2",
+  "offset": 0,
+  "previous": null,
+  "total": 7
+}

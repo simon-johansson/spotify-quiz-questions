@@ -1,0 +1,75 @@
+{
+  "name": "spotify-quiz-questions",
+  "version": "0.0.0",
+  "description": "Generates questions for music quiz",
+  "author": {
+    "name": "Simon Johansson",
+    "email": "mail@simon-johansson.com",
+    "url": "https://github.com/simon-johansson"
+  },
+  "files": [
+    "dist"
+  ],
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "keywords": [
+    "spotify",
+    "quiz",
+    "music quiz"
+  ],
+  "devDependencies": {
+    "@types/jest": "^22.1.2",
+    "@types/node": "^9.4.6",
+    "coveralls": "^2.13.1",
+    "husky": "^0.14.3",
+    "jest": "^22.4.0",
+    "jest-cli": "^22.4.0",
+    "lint-staged": "^4.2.1",
+    "nsp": "^2.6.3",
+    "ts-jest": "^22.0.4",
+    "tslint": "^5.9.1",
+    "tslint-config-airbnb": "^5.6.0",
+    "typescript": "^2.7.1"
+  },
+  "scripts": {
+    "prepublish": "nsp check",
+    "pretest": "tslint -c tslint.json 'lib/**/*.ts'",
+    "precommit": "lint-staged",
+    "test": "jest --coverage",
+    "jest-w": "jest --watch"
+  },
+  "lint-staged": {
+    "*.ts": [
+      "tslint -c tslint.json 'lib/**/*.ts'",
+      "git add"
+    ]
+  },
+  "repository": "simon-johansson/spotify-quiz-questions",
+  "jest": {
+    "testEnvironment": "node",
+    "collectCoverage": false,
+    "coverageDirectory": "coverage/",
+    "transform": {
+      "^.+\\.tsx?$": "ts-jest"
+    },
+    "testRegex": "(/__tests__/.*|(\\.|/)(test|spec))\\.tsx?$",
+    "moduleFileExtensions": [
+      "ts",
+      "tsx",
+      "js",
+      "jsx",
+      "json",
+      "node"
+    ]
+  },
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^3.1.0",
+    "lodash": "^4.17.4",
+    "spotify-api": "0.0.0",
+    "spotify-web-api-node": "^2.5.0",
+    "@types/debug": "0.0.30",
+    "@types/lodash": "^4.14.101",
+    "@types/spotify-api": "0.0.0"
+  }
+}

@@ -1,0 +1,626 @@
+{
+  "collaborative": false,
+  "description": null,
+  "external_urls": {
+    "spotify": "http://open.spotify.com/user/physicaltunes/playlist/0r6srTg2RFfBWba9WZ6Dlq"
+  },
+  "followers": {
+    "href": null,
+    "total": 0
+  },
+  "href": "https://api.spotify.com/v1/users/physicaltunes/playlists/0r6srTg2RFfBWba9WZ6Dlq",
+  "id": "0r6srTg2RFfBWba9WZ6Dlq",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/4adbb659aac44f3eb198e0d7adb85dcf3faf2578",
+      "width": 640
+    }
+  ],
+  "name": "Grundtræning 2svxw",
+  "owner": {
+    "external_urls": {
+      "spotify": "http://open.spotify.com/user/physicaltunes"
+    },
+    "href": "https://api.spotify.com/v1/users/physicaltunes",
+    "id": "physicaltunes",
+    "type": "user",
+    "uri": "spotify:user:physicaltunes"
+  },
+  "public": true,
+  "snapshot_id": "Cy9RoIj+cxQzYP1IYy/QX3DT07he1nKjjk/R1LoR0FwVO9NErLfzJofaJzQYb2kq",
+  "tracks": {
+    "href": "https://api.spotify.com/v1/users/physicaltunes/playlists/0r6srTg2RFfBWba9WZ6Dlq/tracks?offset=0&limit=100",
+    "items": [
+      {
+        "added_at": "2015-10-05T06:04:05Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "http://open.spotify.com/user/physicaltunes"
+          },
+          "href": "https://api.spotify.com/v1/users/physicaltunes",
+          "id": "physicaltunes",
+          "type": "user",
+          "uri": "spotify:user:physicaltunes"
+        },
+        "is_local": false,
+        "track": {
+          "album": {
+            "album_type": "album",
+            "available_markets": [
+              "AD",
+              "AR",
+              "AT",
+              "AU",
+              "BE",
+              "BG",
+              "BO",
+              "BR",
+              "CA",
+              "CH",
+              "CL",
+              "CO",
+              "CR",
+              "CY",
+              "CZ",
+              "DE",
+              "DK",
+              "DO",
+              "EC",
+              "EE",
+              "ES",
+              "FI",
+              "FR",
+              "GB",
+              "GR",
+              "GT",
+              "HK",
+              "HN",
+              "HU",
+              "IE",
+              "IS",
+              "IT",
+              "LI",
+              "LT",
+              "LU",
+              "LV",
+              "MC",
+              "MT",
+              "MX",
+              "MY",
+              "NI",
+              "NL",
+              "NO",
+              "NZ",
+              "PA",
+              "PE",
+              "PH",
+              "PL",
+              "PT",
+              "PY",
+              "RO",
+              "SE",
+              "SG",
+              "SI",
+              "SK",
+              "SV",
+              "TR",
+              "TW",
+              "US",
+              "UY"
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa"
+            },
+            "href": "https://api.spotify.com/v1/albums/063f8Ej8rLVTz9KkjQKEMa",
+            "id": "063f8Ej8rLVTz9KkjQKEMa",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/4adbb659aac44f3eb198e0d7adb85dcf3faf2578",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/42cda2065e164df3f923737f3f40b0a26c6b6bd5",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/6fdee9084e91faaa23bbf5880ad3cf5988aea438",
+                "width": 64
+              }
+            ],
+            "name": "Ambient 1/Music For Airports",
+            "type": "album",
+            "uri": "spotify:album:063f8Ej8rLVTz9KkjQKEMa"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+              },
+              "href": "https://api.spotify.com/v1/artists/7MSUfLeTdDEoZiJPDSBXgi",
+              "id": "7MSUfLeTdDEoZiJPDSBXgi",
+              "name": "Brian Eno",
+              "type": "artist",
+              "uri": "spotify:artist:7MSUfLeTdDEoZiJPDSBXgi"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "IE",
+            "IS",
+            "IT",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "RO",
+            "SE",
+            "SG",
+            "SI",
+            "SK",
+            "SV",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "disc_number": 1,
+          "duration_ms": 1041520,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "GBAAA0400426"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3bCmDqflFBHijgJfvtqev5"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3bCmDqflFBHijgJfvtqev5",
+          "id": "3bCmDqflFBHijgJfvtqev5",
+          "name": "1/1 - 2004 Digital Remaster",
+          "popularity": 58,
+          "preview_url": "https://p.scdn.co/mp3-preview/b7cd7208aa6c68607b492c5298234cbe8b86c39d",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:3bCmDqflFBHijgJfvtqev5"
+        }
+      },
+      {
+        "added_at": "2015-10-05T06:05:23Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "http://open.spotify.com/user/physicaltunes"
+          },
+          "href": "https://api.spotify.com/v1/users/physicaltunes",
+          "id": "physicaltunes",
+          "type": "user",
+          "uri": "spotify:user:physicaltunes"
+        },
+        "is_local": false,
+        "track": {
+          "album": {
+            "album_type": "album",
+            "available_markets": [
+              "AD",
+              "AR",
+              "AT",
+              "AU",
+              "BE",
+              "BG",
+              "BO",
+              "BR",
+              "CH",
+              "CL",
+              "CO",
+              "CR",
+              "CY",
+              "CZ",
+              "DE",
+              "DK",
+              "DO",
+              "EC",
+              "EE",
+              "ES",
+              "FI",
+              "FR",
+              "GB",
+              "GR",
+              "GT",
+              "HK",
+              "HN",
+              "HU",
+              "IE",
+              "IT",
+              "LI",
+              "LU",
+              "MC",
+              "MT",
+              "MY",
+              "NI",
+              "NL",
+              "NO",
+              "NZ",
+              "PA",
+              "PE",
+              "PH",
+              "PL",
+              "PT",
+              "PY",
+              "RO",
+              "SE",
+              "SG",
+              "SI",
+              "SK",
+              "SV",
+              "TR",
+              "TW"
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/3LXNSUpx48PQxUn2StRqfu"
+            },
+            "href": "https://api.spotify.com/v1/albums/3LXNSUpx48PQxUn2StRqfu",
+            "id": "3LXNSUpx48PQxUn2StRqfu",
+            "images": [
+              {
+                "height": 575,
+                "url": "https://i.scdn.co/image/b455d0dba3b95e1a2550d293e6e6443dc68c7a76",
+                "width": 640
+              },
+              {
+                "height": 270,
+                "url": "https://i.scdn.co/image/5da3b3f3d5ac24aaaf2e4c9d7042d5091f6fef2e",
+                "width": 300
+              },
+              {
+                "height": 58,
+                "url": "https://i.scdn.co/image/ee18c4134b0979437f042ee7b3b4d4a78719bedc",
+                "width": 64
+              }
+            ],
+            "name": "The Very Best Of Little Richard",
+            "type": "album",
+            "uri": "spotify:album:3LXNSUpx48PQxUn2StRqfu"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+              },
+              "href": "https://api.spotify.com/v1/artists/4xls23Ye9WR9yy3yYMpAMm",
+              "id": "4xls23Ye9WR9yy3yYMpAMm",
+              "name": "Little Richard",
+              "type": "artist",
+              "uri": "spotify:artist:4xls23Ye9WR9yy3yYMpAMm"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "IE",
+            "IT",
+            "LI",
+            "LU",
+            "MC",
+            "MT",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "RO",
+            "SE",
+            "SG",
+            "SI",
+            "SK",
+            "SV",
+            "TR",
+            "TW"
+          ],
+          "disc_number": 1,
+          "duration_ms": 127386,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "USC4R0817279"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/1fMMRoalpb7E8m5FsAta2y"
+          },
+          "href": "https://api.spotify.com/v1/tracks/1fMMRoalpb7E8m5FsAta2y",
+          "id": "1fMMRoalpb7E8m5FsAta2y",
+          "name": "Good Golly Miss Molly",
+          "popularity": 53,
+          "preview_url": "https://p.scdn.co/mp3-preview/e3dbf57f76595ec38b11a947fa770af3e63d9da9",
+          "track_number": 3,
+          "type": "track",
+          "uri": "spotify:track:1fMMRoalpb7E8m5FsAta2y"
+        }
+      },
+      {
+        "added_at": "2015-10-05T06:03:49Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "http://open.spotify.com/user/physicaltunes"
+          },
+          "href": "https://api.spotify.com/v1/users/physicaltunes",
+          "id": "physicaltunes",
+          "type": "user",
+          "uri": "spotify:user:physicaltunes"
+        },
+        "is_local": false,
+        "track": {
+          "album": {
+            "album_type": "album",
+            "available_markets": [
+              "AD",
+              "AR",
+              "AT",
+              "AU",
+              "BE",
+              "BG",
+              "BO",
+              "BR",
+              "CA",
+              "CH",
+              "CL",
+              "CO",
+              "CR",
+              "CY",
+              "CZ",
+              "DK",
+              "DO",
+              "EC",
+              "EE",
+              "ES",
+              "FI",
+              "FR",
+              "GB",
+              "GR",
+              "GT",
+              "HK",
+              "HN",
+              "HU",
+              "IE",
+              "IS",
+              "IT",
+              "LI",
+              "LT",
+              "LU",
+              "LV",
+              "MC",
+              "MT",
+              "MX",
+              "MY",
+              "NI",
+              "NL",
+              "NO",
+              "NZ",
+              "PA",
+              "PE",
+              "PH",
+              "PL",
+              "PT",
+              "PY",
+              "RO",
+              "SE",
+              "SG",
+              "SI",
+              "SK",
+              "SV",
+              "TR",
+              "TW",
+              "US",
+              "UY"
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2Uc0HAF0Cj0LAgyzYZX5e3"
+            },
+            "href": "https://api.spotify.com/v1/albums/2Uc0HAF0Cj0LAgyzYZX5e3",
+            "id": "2Uc0HAF0Cj0LAgyzYZX5e3",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/43660a1f9fd70e3463a782e5f7948a54f4e4cc99",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/517be4be20d34be9a9b27e1ff72d974a3ad86238",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/427ac24b200fb7c6ae2a9d62ea499309702d8675",
+                "width": 64
+              }
+            ],
+            "name": "The Miseducation of Lauryn Hill",
+            "type": "album",
+            "uri": "spotify:album:2Uc0HAF0Cj0LAgyzYZX5e3"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+              },
+              "href": "https://api.spotify.com/v1/artists/2Mu5NfyYm8n5iTomuKAEHl",
+              "id": "2Mu5NfyYm8n5iTomuKAEHl",
+              "name": "Ms. Lauryn Hill",
+              "type": "artist",
+              "uri": "spotify:artist:2Mu5NfyYm8n5iTomuKAEHl"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+              },
+              "href": "https://api.spotify.com/v1/artists/336vr2M3Va0FjyvB55lJEd",
+              "id": "336vr2M3Va0FjyvB55lJEd",
+              "name": "D'Angelo",
+              "type": "artist",
+              "uri": "spotify:artist:336vr2M3Va0FjyvB55lJEd"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "IE",
+            "IS",
+            "IT",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "RO",
+            "SE",
+            "SG",
+            "SI",
+            "SK",
+            "SV",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "disc_number": 1,
+          "duration_ms": 350533,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "USSM19803112"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3xhXKRGahWzcXF8rD5gUvd"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3xhXKRGahWzcXF8rD5gUvd",
+          "id": "3xhXKRGahWzcXF8rD5gUvd",
+          "name": "Nothing Even Matters",
+          "popularity": 62,
+          "preview_url": "https://p.scdn.co/mp3-preview/1911854c887c31b05e3167ca18182da1838ce1ed",
+          "track_number": 12,
+          "type": "track",
+          "uri": "spotify:track:3xhXKRGahWzcXF8rD5gUvd"
+        }
+      }
+    ],
+    "limit": 100,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 300
+  },
+  "type": "playlist",
+  "uri": "spotify:user:physicaltunes:playlist:0r6srTg2RFfBWba9WZ6Dlq"
+}
