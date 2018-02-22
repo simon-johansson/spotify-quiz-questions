@@ -1,6 +1,6 @@
 {
   "name": "spotify-quiz-questions",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Generates questions for music quiz",
   "author": {
     "name": "Simon Johansson",
@@ -66,7 +66,6 @@
   "dependencies": {
     "debug": "^3.1.0",
     "lodash": "^4.17.4",
-    "spotify-api": "0.0.0",
     "spotify-web-api-node": "^2.5.0",
     "@types/debug": "0.0.30",
     "@types/lodash": "^4.14.101",
