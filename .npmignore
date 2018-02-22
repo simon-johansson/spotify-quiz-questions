@@ -1,0 +1,13 @@
+lib/
+.vscode/
+coverage/
+.gitattributes
+*.tgz
+experiment.js
+TODO.md
+.editorconfig
+.travis.yml
+tsconfig.json
+tsconfig.publish.json
+tslint.json
+typings.d.ts
