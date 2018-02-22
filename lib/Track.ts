@@ -1,18 +1,6 @@
 /// <reference types="spotify-api" />
 import * as _ from 'lodash';
-import { Playlist } from './interfaces';
-
-interface Artist {
-  name: string;
-  id: string;
-  related: string[];
-  topTracks: string[];
-}
-
-interface MetaInfo {
-  httpLink: string;
-  uriLink: string;
-}
+import { Playlist, Artist, MetaInfo } from './interfaces';
 
 export default class Track {
   private audio: string;

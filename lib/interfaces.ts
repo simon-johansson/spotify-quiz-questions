@@ -18,4 +18,16 @@ export interface QuestionOptions {
   amount: number;
 }
 
+export interface Artist {
+  name: string;
+  id: string;
+  related: string[];
+  topTracks: string[];
+}
+
+export interface MetaInfo {
+  httpLink: string;
+  uriLink: string;
+}
+
 export type QuestionType = 'track title' | 'artist name' | 'mix';
