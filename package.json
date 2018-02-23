@@ -1,6 +1,6 @@
 {
   "name": "spotify-quiz-questions",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Generates questions for music quiz",
   "author": {
     "name": "Simon Johansson",
