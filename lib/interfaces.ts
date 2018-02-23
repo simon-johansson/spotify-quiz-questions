@@ -13,9 +13,9 @@ export interface Playlist {
 }
 
 export interface QuestionOptions {
-  playlist: Playlist;
-  questionType: QuestionType;
-  amount: number;
+  playlist?: Playlist;
+  questionType?: QuestionType;
+  amount?: number;
 }
 
 export interface Artist {
