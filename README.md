@@ -61,6 +61,40 @@ spotifyQuizQuestions.getQuestions(options)
 ## Typescript
 Yes! Module comes bundled with declaration files.
 
+```ts
+import SpotifyQuizQuestions from 'spotify-quiz-questions';
+import {
+    SpotifyClientConstructorOptions,
+    QuestionOptions,
+    QuestionType,
+    Playlist
+} from 'spotify-quiz-questions/dist/interfaces';
+
+const config: SpotifyClientConstructorOptions = {
+    clientId: '',
+    clientSecret: '',
+    shouldUpdateRefreshToken: false,
+};
+
+const spotifyQuizQuestions = new SpotifyQuizQuestions(config);
+
+const options: QuestionOptions = {
+    playlist: <Playlist> {
+        name: 'Top 100 tracks currently on Spotify',
+        id: '4hOKQuZbraPDIfaGbM3lKI',
+        owner: 'spotify'
+    },
+    questionType: <QuestionType> 'mix',
+    amount: 10
+}
+
+spotifyQuizQuestions.getQuestions(options)
+    .then((questions) => {
+        ...
+    })
+    .catch((err: any) => console.log(err));
+```
+
 ## License
 
 MIT © [Simon Johansson](https://github.com/simon-johansson)
