@@ -13,7 +13,7 @@ $ npm install --save spotify-quiz-questions
 ## Usage
 
 ```js
-const SpotifyQuizQuestions = require('spotify-quiz-questions').default;
+const SpotifyQuizQuestions = require('spotify-quiz-questions').default
 
 const config = {
   // client id for Spotify API
@@ -22,9 +22,9 @@ const config = {
   clientSecret: '',
   // if refresh token should auto update. defaults to false.
   shouldUpdateRefreshToken: false,
-};
+}
 
-const spotifyQuizQuestions = new SpotifyQuizQuestions(config);
+const spotifyQuizQuestions = new SpotifyQuizQuestions(config)
 
 const options = {
   // playlist used to generate questions. defaults to 'Top 100 tracks currently on Spotify'
@@ -42,18 +42,20 @@ const options = {
 
 spotifyQuizQuestions.getQuestions(options)
   .then((questions) => {
-    const q = questions[0];
+    const q = questions[0]
     q.getChoices() // [ 'Kevin Lyttle', 'Machel Montano', 'Massari', 'Mavado' ]
     q.getRightAnswer() // 'Kevin Lyttle'
     q.evaluateAnswer('Kevin Lyttle') // true
-    q.track.getArtist() // 'Kevin Lyttle'
-    q.track.getArtistId() // '1GaBsp1ICIp1e6udgE7fba'
-    q.track.getTitle() // 'Turn Me On'
-    q.track.getAudioPreview() // 'https://p.scdn.co/mp3-preview/...'
-    q.track.getImage() // { height: 300, width: 300, url: 'https://i.scdn.co/image/...' }
-    q.track.getMetaData() // { httpLink: 'https://open.spotify.com/track/...', uriLink: 'spotify:track:...' }
+
+    const track = q.getTrack()
+    track.getArtist() // 'Kevin Lyttle'
+    track.getArtistId() // '1GaBsp1ICIp1e6udgE7fba'
+    track.getTitle() // 'Turn Me On'
+    track.getAudioPreview() // 'https://p.scdn.co/mp3-preview/...'
+    track.getImage() // { height: 300, width: 300, url: 'https://i.scdn.co/image/...' }
+    track.getMetaData() // { httpLink: 'https://open.spotify.com/track/...', uriLink: 'spotify:track:...' }
   })
-  .catch((err) => console.log(err));
+  .catch((err) => console.log(err))
 ```
 
 ## Typescript

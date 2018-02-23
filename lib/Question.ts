@@ -30,6 +30,10 @@ export default class Question {
     return answerGiven === this.getRightAnswer() ? true : false;
   }
 
+  public getTrack(): Track {
+    return this.track;
+  }
+
   private setQuestionType(): void {
     if (!!this.track.getTopTracks().length) {
       this.questionType = 'track title';

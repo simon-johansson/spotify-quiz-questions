@@ -257,6 +257,15 @@ describe('SpotifyQuizQuestions', () => {
         expect(questions[0].evaluateAnswer('wrong answer')).toBeFalsy();
       });
     });
+    describe('#getTrack()', () => {
+      it('returns track for question', async () => {
+        const questions = await spotifyQuestions.getQuestions();
+        const track = questions[0].getTrack();
+        expect(track).toHaveProperty('getArtist');
+        expect(track).toHaveProperty('getAudioPreview');
+        expect(track).toHaveProperty('hasAudio');
+      });
+    });
   });
 
   describe('Track', async () => {
