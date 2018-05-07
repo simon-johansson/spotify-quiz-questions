@@ -15,19 +15,18 @@
     "music quiz"
   ],
   "devDependencies": {
-    "@types/jest": "^22.1.2",
-    "@types/node": "^9.4.6",
-    "codecov": "^3.0.0",
-    "coveralls": "^2.13.1",
+    "@types/jest": "^22.2.3",
+    "@types/node": "^9.6.12",
+    "codecov": "^3.0.1",
     "husky": "^0.14.3",
-    "jest": "^22.4.0",
-    "jest-cli": "^22.4.0",
+    "jest": "^22.4.3",
+    "jest-cli": "^22.4.3",
     "lint-staged": "^4.2.1",
     "nsp": "^2.6.3",
-    "ts-jest": "^22.0.4",
-    "tslint": "^5.9.1",
-    "tslint-config-airbnb": "^5.6.0",
-    "typescript": "^2.7.1"
+    "ts-jest": "^22.4.5",
+    "tslint": "^5.10.0",
+    "tslint-config-airbnb": "^5.8.0",
+    "typescript": "^2.8.3"
   },
   "scripts": {
     "pretest": "tslint -c tslint.json 'lib/**/*.ts'",
@@ -62,11 +61,11 @@
   },
   "license": "MIT",
   "dependencies": {
-    "debug": "^3.1.0",
-    "lodash": "^4.17.4",
-    "spotify-web-api-node": "^2.5.0",
     "@types/debug": "0.0.30",
-    "@types/lodash": "^4.14.101",
-    "@types/spotify-api": "0.0.0"
+    "@types/lodash": "^4.14.108",
+    "@types/spotify-api": "0.0.0",
+    "debug": "^3.1.0",
+    "lodash": "^4.17.10",
+    "spotify-web-api-node": "^3.1.1"
   }
 }
