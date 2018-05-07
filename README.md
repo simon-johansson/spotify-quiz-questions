@@ -62,13 +62,12 @@ spotifyQuizQuestions.getQuestions(options)
 Yes! Module comes bundled with declaration files.
 
 ```ts
-import SpotifyQuizQuestions from 'spotify-quiz-questions';
-import {
+import SpotifyQuizQuestions, {
     SpotifyClientConstructorOptions,
     QuestionOptions,
     QuestionType,
     Playlist
-} from 'spotify-quiz-questions/dist/interfaces';
+} from 'spotify-quiz-questions';
 
 const config: SpotifyClientConstructorOptions = {
     clientId: '',
