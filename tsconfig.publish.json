@@ -8,7 +8,7 @@
     "allowJs": false,
     "experimentalDecorators": true,
     "declaration": true,
-    "forceConsistentCasingInFileNames": true,
+    "forceConsistentCasingInFileNames": true
   },
   "include": [
     "lib/**/*.ts"
