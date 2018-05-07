@@ -302,9 +302,9 @@ describe('SpotifyQuizQuestions', () => {
       const track = questions[0].track;
       const image = track.getImage();
       expect(image).toHaveProperty('height');
-      expect(image.height).toEqual(300);
+      expect(image.height).toBeLessThanOrEqual(300);
       expect(image).toHaveProperty('width');
-      expect(image.width).toEqual(300);
+      expect(image.width).toBeLessThanOrEqual(300);
       expect(image).toHaveProperty('url');
       expect(image.url).toMatch(/https:\/\/i.scdn.co\/image\//);
     });
