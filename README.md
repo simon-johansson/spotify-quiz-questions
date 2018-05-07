@@ -96,7 +96,7 @@ spotifyQuizQuestions.getQuestions(options)
 ```
 
 ## License
-
+ 
 MIT © [Simon Johansson](https://github.com/simon-johansson)
 
 
